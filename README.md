@@ -4,9 +4,9 @@ Powershell Configuring Samples:
 
 Configuring your git bash :
 
-git config --global user.name "mabel-c"
+git config --global user.name "username"
 
-git config --global user.email "mabelche@gmail.com"
+git config --global user.email "email"
 
 git config --list
 
